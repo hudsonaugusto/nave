@@ -29,6 +29,8 @@ O cidadão simplesmente realiza a busca por um termo, que pode ser o nome do bai
 
 Estamos em uma democracia com sistema representativo. Depois de eleger um representante para o Poder Legislativo (vereador, deputado estadual, deputado federal e senador), é bem interessante acompanhar e participar do que ele está fazendo. Não só o que você votou, todos os que estão lá para trabalhar pela sociedade.
 
+
+
 Como surgiu a idéia do projeto:
 
 Ano passado tivemos em contato com o projeto Transparência Hacker (thacker.com.br/) com o desenvolvimento dos projetos Ônibus Hacher (onibushacker.org/) e a plataforma Queremos Saber (queremossaber.org.br/) de solicitação de informação pública, sendo assim iniciamos os aprendizados e colocamos a mão na massa seguindo a linha “Adote um Político”.
@@ -46,6 +48,8 @@ A intenção deste blog é levar informações, principalmente para aquelas pess
 Para fazer bem essa representação, é necessário saber o que a sociedade espera, o que ela aprova, o que desaprova – e ter seu trabalho acompanhado para não cometer “deslizes”.
 
 Quanto mais coisas descobrirmos sobre como os parlamentares trabalham, mais podemos pressionar para que melhorem seu desempenho, criticar as políticas que não funcionam e elogiar as bem feitas.
+
+
 
 De acordo com a Constituição Federal de 1988, o acesso a informações públicas é um direito fundamental garantido a todos os cidadãos:
 
